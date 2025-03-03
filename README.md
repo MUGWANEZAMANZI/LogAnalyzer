@@ -84,6 +84,3 @@ def alert_sudo_cmd_fail():
 - **Class Code:** RW-University-II
 - **Lecturer's Name:** Dominique HARELIMANA
 
----
-
-You can create a new file named `README.md` in your repository and paste this content into it.
