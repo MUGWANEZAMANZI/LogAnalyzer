@@ -15,6 +15,8 @@ LogAnalyzer is a Python project designed to parse and analyze log files, specifi
      - **SUDO Command Usage:** Displays when users have used the `sudo` command.
      - **SUDO Failures:** Alerts if `sudo` command fails.
 
+
+PDF: https://drive.google.com/file/d/1fg_f0k6b8rUHg7bo6keDwPKXs2YG1Zvp/view?usp=drive_link
 ## Usage
 To use the LogAnalyzer, follow the instructions below:
 
